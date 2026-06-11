@@ -24,7 +24,6 @@ Technologies Learned:
 * Linux Command Line
 * SSH
 * DNS
-* DHCP Reservations
 * Self-Hosting
 * Troubleshooting
 
